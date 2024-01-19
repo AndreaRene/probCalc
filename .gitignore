@@ -14,3 +14,5 @@ upm/
 
 # Error logs
 *.log
+*.txt
+
